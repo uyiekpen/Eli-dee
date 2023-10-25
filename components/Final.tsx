@@ -35,7 +35,7 @@ const Final = () => {
           </p>
         </div>
         <button className="border px-8 py-2 rounded-2xl border-[#C03969] text-[#C03969] font-semibold">
-          RSVP
+          <a href="https://forms.gle/TZTptswfaFMkpK88A">RSVP</a>
         </button>
       </div>
     </div>

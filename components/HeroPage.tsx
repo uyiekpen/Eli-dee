@@ -82,7 +82,7 @@ const HeroPage = () => {
             Elizabeth <br /> &<br /> Daniel
           </h1>
           <button className="border px-8 py-2 rounded-2xl border-[#C03969] text-[#C03969] font-semibold">
-            RSVP
+            <a href="https://forms.gle/TZTptswfaFMkpK88A">RSVP</a>
           </button>
         </div>
         <div className="w-1/2 md:block justify-center items-center hidden ">
