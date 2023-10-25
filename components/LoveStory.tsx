@@ -12,14 +12,14 @@ const LoveStory = () => {
             Our love Story
           </div>
         </div>
-        <div className="md:w-1/2 w-full mt-2">
+        <div className="md:w-1/2 w-full mt-2 flex justify-center flex-col items-center">
           <p className="md:w-[500px] text-center leading-8 ">
             four years ago, we were just two strangers. After
             countless play dates and real romantic dates later, here we are!
             We hope you can join us as our love story continues with us saying
             our I Do's.
           </p>
-          <div className="w-[90%] h-[300px] rounded-lg mt-2">
+          <div className="w-[90%] h-[300px] rounded-lg mt-2 flex justify-center items-center">
             <Image
               src={pix}
               alt="our.png"

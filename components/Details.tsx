@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Details = () => {
   return (
-    <div className="h-[500px] bg-red-200 w-full flex justify-center items-center mt-2">
+    <div className="h-[500px] bg-red-200 w-full flex justify-center items-center mt-4">
       <div className="w-full bg-cover h-[500px] relative">
         <Image
           src={flower}
