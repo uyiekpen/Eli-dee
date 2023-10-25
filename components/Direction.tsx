@@ -8,9 +8,10 @@ const Direction = () => {
         <div className="md:w-[400px] w-full mt-8">
           <span> </span>
           <p>
-            From Oshodi Take a bus Heading towards orile bustop, and stop at
-            Suru-Alaba , From Suru-Alaba Enter keke napep and stop at the last
-            bustop
+            via Oshodi Take the bus heading in the direction of Orile Bustop and
+            stop at Suru-Alaba. From Suru-Alaba Take  Keke Napep and halt at the
+            final bus stop. Locate Shogbesan street and ask for De Joy eternal
+            evangelical Mission church
           </p>
           <div className="mt-4 text-sm font-bold">
             <p className="font-bold">for more enquires call this number</p>
