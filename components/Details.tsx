@@ -19,7 +19,7 @@ const Details = () => {
         <div className="flex justify-between  mt-8 flex-col md:flex-row">
           <div className="flex flex-col font-semibold text-xs md:text-sm ">
             <span> Date: December 16, 2023</span>
-            <span>Time: 11:00 AM</span>
+            <span>Time: 10:00 AM</span>
           </div>
           <div className="md:w-[400px] w-full font-semibold text-xs md:text-sm mt-4 md:mt-0">
             <span>
